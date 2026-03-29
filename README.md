@@ -91,20 +91,23 @@ The data model follows a **Star Schema** structure with:
 
 ## 📸 Dashboard Preview
 
+### Introduction
+![Introduction Analysis](screenshots/introduction_analysis.png).
+
 ### 🎬 Rental Analysis
-![Rental Analysis](#)
+![Rental Analysis](screenshots/rental_analysis.png)
 
 ### 👥 Customer Analysis
-![Customer Analysis](#)
+![Customer Analysis](screenshots/customer_analysis.png)
 
 ### 🎞️ Film & Inventory
-![Film Inventory](#)
+![Film Inventory](screenshots/film_inventory_analysis.png)
 
 ### 💳 Payment Analysis
-![Payment Analysis](#)
+![Payment Analysis](screenshots/payment_analysis.png)
 
 ### 🏪 Store Analysis
-![Store Analysis](#)
+![Store Analysis](screenshots/store_analysis.png)
 
 ---
 
